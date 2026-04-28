@@ -1,0 +1,8 @@
+{
+  "/api/v1": {
+    "target": "https://urbancar-backend.onrender.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
